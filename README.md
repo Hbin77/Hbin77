@@ -7,8 +7,7 @@
 
 ---
 
-### 🧑‍💻 About Me
-
+### <img src="https://img.icons8.com/color/24/000000/developer--v1.png" width="22"/> About Me
 **순천대학교 인공지능공학부** 재학 중이며, AI와 웹 서비스를 결합한 프로덕트를 만드는 데 관심이 많습니다.
 
 - 🔬 **AI 프로덕트 개발** — LLM과 Computer Vision을 활용한 서비스 설계 및 구현
@@ -18,7 +17,7 @@
 
 <br/>
 
-### 🛠️ Tech Stack
+### <img src="https://img.icons8.com/color/24/000000/settings--v1.png" width="22"/> Tech Stack
 
 **Languages**
 
@@ -64,7 +63,7 @@
 
 <br/>
 
-### 📊 GitHub Stats
+### <img src="https://img.icons8.com/color/24/000000/combo-chart--v1.png" width="22"/> GitHub Stats
 
 <div align="center">
  
@@ -77,7 +76,7 @@
 
 <br/>
 
-### 🚀 Featured Projects
+### <img src="https://img.icons8.com/color/24/000000/rocket--v1.png" width="22"/> Featured Projects
 
 #### 🤖 AI 서비스
 
@@ -107,7 +106,7 @@
 
 <br/>
 
-### 📫 Contact
+### <img src="https://img.icons8.com/color/24/000000/new-post.png" width="22"/> Contact
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phb007298@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hbin77)
