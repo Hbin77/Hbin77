@@ -17,6 +17,12 @@
 
 <br/>
 
+<div align="center">
+ 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hbin77&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Hbin77)
+ 
+</div>
+
 ### <img src="https://img.icons8.com/color/24/000000/settings--v1.png" width="22"/> Tech Stack
 
 **Languages**
