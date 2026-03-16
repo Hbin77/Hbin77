@@ -67,12 +67,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hbin77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=Hbin77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hbin77&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
-
+ 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hbin77&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+ 
 </div>
 
 <br/>
