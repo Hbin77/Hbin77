@@ -17,16 +17,6 @@
 
 <br/>
 
-<div align="center">
- 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hbin77/Hbin77/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hbin77/Hbin77/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Hbin77/Hbin77/output/github-snake-dark.svg" />
-</picture>
- 
-</div>
-
 ### <img src="https://img.icons8.com/color/24/000000/settings--v1.png" width="22"/> Tech Stack
 
 **Languages**
