@@ -19,7 +19,11 @@
 
 <div align="center">
  
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hbin77&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Hbin77)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hbin77/Hbin77/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hbin77/Hbin77/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Hbin77/Hbin77/output/github-snake-dark.svg" />
+</picture>
  
 </div>
 
