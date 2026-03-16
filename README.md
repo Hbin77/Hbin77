@@ -83,7 +83,7 @@
 
 | 프로젝트 | 설명 | 배포 | 기술 |
 |-----------|------|------|------|
-| [**TRNT-pj**](https://github.com/Hbin77/TRNT-pj) | TRNT(The Road Not Taken) — "만약 그때 다른 선택을 했다면?" AI가 가지 않은 길을 시뮬레이션해주는 인생 선택 체험 서비스 | [trnt.hbinserver.cloud](https://trnt.hbinserver.cloud) | TypeScript,Python, AI |
+| [**TRNT-pj**](https://github.com/Hbin77/TRNT-pj) | TRNT(The Road Not Taken) — "만약 그때 다른 선택을 했다면?" AI가 가지 않은 길을 시뮬레이션해주는 인생 선택 체험 서비스 | [trnt.hbinserver.cloud(추후 변경)](https://trnt.hbinserver.cloud) | TypeScript,Python, AI |
 | [**tail-psychology**](https://github.com/Hbin77/tail-psychology) | 꼬리심리학 — 반려동물 성격 유형 검사 서비스 (멍BTI / 냥BTI) | [tailpsych.com](https://tailpsych.com) | Next.js, FastAPI, AI/CV |
 | [**jntour**](https://github.com/Hbin77) | AI 기반 전남 관광 추천 시스템 | [jntour.site](https://jntour.site) | TypeScript, AI |
 
