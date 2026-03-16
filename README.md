@@ -100,7 +100,7 @@
 
 | 프로젝트 | 설명 | 배포 | 기술 |
 |-----------|------|------|------|
-| [**claude-code-kit**](https://github.com/Hbin77/claude-code-kit) | Claude Code를 풀스택 개발 플랫폼으로 업그레이드하는 확장 킷 ⭐3 | [github](https://github.com/Hbin77/claude-code-kit) | Shell |
+| [**claude-code-kit**](https://github.com/Hbin77/claude-code-kit) | Claude Code를 풀스택 개발 플랫폼으로 업그레이드하는 확장 킷 ⭐2 | [github](https://github.com/Hbin77/claude-code-kit) | Shell |
 
 <br/>
 
