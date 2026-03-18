@@ -116,6 +116,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hbin77&color=58A6FF&style=flat-square)
  
-_"매일 조금씩, 어제보다 나은 코드를 작성하고 있습니다."_
-
 </div>
