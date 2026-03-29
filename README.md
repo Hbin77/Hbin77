@@ -83,7 +83,7 @@
 |-----------|------|------|------|
 | [**TRNT-pj**](https://github.com/Hbin77/TRNT-pj) | TRNT(The Road Not Taken) — "만약 그때 다른 선택을 했다면?" AI가 가지 않은 길을 시뮬레이션해주는 인생 선택 체험 서비스 | [trnt.hbinserver.cloud(추후 변경)](https://trnt.hbinserver.cloud) | TypeScript,Python, AI |
 | [**tail-psychology**](https://github.com/Hbin77/tail-psychology) | 꼬리심리학 — 반려동물 성격 유형 검사 서비스 (멍BTI / 냥BTI) | [tailpsych.com](https://tailpsych.com) | Next.js, FastAPI, AI/CV |
-| [**jntour**](https://github.com/Hbin77) | AI 기반 전남 관광 추천 시스템 | [jntour.site](https://jntour.site) | TypeScript, AI |
+| [**jntour**](https://github.com/Hbin77/AI_jn_tour) | AI 기반 전남 관광 추천 시스템 | [jntour.site](https://jntour.site) | TypeScript, AI |
 
 #### 🌐 웹 서비스
 
@@ -92,7 +92,7 @@
 | [**thelaim**](https://github.com/Hbin77/thelaim) | 의류 브랜드 웹 서비스 | [thelaim.com](https://thelaim.com) | TypeScript |
 | [**finlog**](https://github.com/Hbin77/finlog) | 2030 직장인을 위한 실용 재테크 가이드 서비스 | [finlog.site](https://finlog.site) | Astro |
 | [**abecede-web**](https://github.com/Hbin77/abecede-web) | 화장품 브랜드 웹 서비스 | [abcdcos.com](https://abcdcos.com) | Next.js |
-| [**soloseller**](https://github.com/Hbin77) | 소규모 셀러를 위한 자동 송장 발급·출력·입력 시스템 | [soloseller.cloud](https://soloseller.cloud) | TypeScript |
+| [**soloseller**](https://github.com/Hbin77/mcp-soloseller) | 소규모 셀러를 위한 자동 송장 발급·출력·입력 시스템 | [soloseller.cloud](https://soloseller.cloud) | TypeScript |
 | [**likelionscnu**](https://github.com/LikeLion-SCNU/web_pj) | 멋쟁이사자처럼 순천대학교 공식 사이트 | [likelionscnu.site](https://likelionscnu.site) | — |
 
 #### 🛠️ 개발 도구 & 인프라
