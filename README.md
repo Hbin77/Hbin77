@@ -88,17 +88,28 @@
 | [**thelaim**](https://github.com/Hbin77/thelaim) | 의류 브랜드 웹 서비스 | [thelaim.com](https://thelaim.com) | TypeScript |
 | [**finlog**](https://github.com/Hbin77/finlog) | 2030 직장인을 위한 실용 재테크 가이드 서비스 | [finlog.site](https://finlog.site) | Astro |
 | [**abecede-web**](https://github.com/Hbin77/abecede-web) | 화장품 브랜드 웹 서비스 | [abcdcos.com](https://abcdcos.com) | Next.js |
-| [**soloseller**](https://github.com/Hbin77/mcp-soloseller) | 소규모 셀러를 위한 자동 송장 발급·출력·입력 시스템 | [soloseller.cloud](https://soloseller.cloud) | TypeScript |
-| [**likelionscnu**](https://github.com/LikeLion-SCNU/web_pj) | 멋쟁이사자처럼 순천대학교 공식 사이트 | [likelionscnu.site](https://likelionscnu.site) | — |
+| [**soloseller**](https://github.com/Hbin77/Soloseller) | 소규모 셀러를 위한 자동 송장 발급·출력·입력 시스템 | [soloseller.cloud](https://soloseller.cloud) | TypeScript |
+| [**SoloSeller Shop**](https://shop.soloseller.cloud) | 멀티채널(쿠팡·네이버·11번가·SSG) 온라인 셀러 관리 SaaS · 국산 NPU 기반 AI 엔진 **도입 예정** (NIPA 2026 선정) | [shop.soloseller.cloud](https://shop.soloseller.cloud) | Next.js, FastAPI, PostgreSQL |
+| [**likelionscnu**](https://github.com/LikeLion-SCNU/web_pj) | 멋쟁이사자처럼 순천대학교 공식 사이트(소개 및 과제 시스템) | [likelionscnu.site](https://likelionscnu.site) | — |
 
 #### 🛠️ 개발 도구 & 인프라
 
 | 프로젝트 | 설명 | 배포 | 기술 |
 |-----------|------|------|------|
-| [**claude-code-kit**](https://github.com/Hbin77/claude-code-kit) | Claude Code를 풀스택 개발 플랫폼으로 업그레이드하는 확장 킷 ⭐2 | [github](https://github.com/Hbin77/claude-code-kit) | Shell |
+| [**claude-code-kit**](https://github.com/Hbin77/claude-code-kit) | Claude Code를 풀스택 개발 플랫폼으로 업그레이드하는 확장 킷 ⭐4 | [github](https://github.com/Hbin77/claude-code-kit) | Shell |
 
 <br/>
+### <img src="https://img.icons8.com/color/24/000000/prize.png" width="22"/> Awards & Certifications
 
+**Awards & Selections**
+- 🖥️ NIPA 2026 고성능컴퓨팅 지원사업 (AI반도체 트랙) 선정 — 국산 NPU(Rebellions ATOM PLUS) 기반 SoloSeller Shop 멀티채널 추론 인프라 실증 · AI 아키텍처 총괄 (2026)
+- 🥈 RISE 전남 우수상 — 「전남 5대 핵심산업 융합혁신 프로젝트」 (국립순천대학교 RISE사업단, 2026.02)
+- 🎯 AI TOP 100 Campus 본선 진출 (Kakao AI Campus)
+- 🌱 글로컬 그린스마트팜 성과박람회 대학생 해커톤 경진대회 장려상 (국립순천대학교, 2025.12)
+
+**Certifications**
+- ICT 이노베이션스퀘어 AI 기본과정 80h (2025.04)
+- ICT 이노베이션스퀘어 AWS 마스터 클래스 160h (2026.04~06, 수강 중) — AWS-SAA 대비
 <br/>
 
 ### <img src="https://img.icons8.com/color/24/000000/new-post.png" width="22"/> Contact
