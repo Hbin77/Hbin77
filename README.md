@@ -99,17 +99,22 @@
 | [**claude-code-kit**](https://github.com/Hbin77/claude-code-kit) | Claude Code를 풀스택 개발 플랫폼으로 업그레이드하는 확장 킷 ⭐4 | [github](https://github.com/Hbin77/claude-code-kit) | Shell |
 
 <br/>
+<br/>
+
 ### <img src="https://img.icons8.com/color/24/000000/prize.png" width="22"/> Awards & Certifications
 
 **Awards & Selections**
+
 - 🖥️ NIPA 2026 고성능컴퓨팅 지원사업 (AI반도체 트랙) 선정 — 국산 NPU(Rebellions ATOM PLUS) 기반 SoloSeller Shop 멀티채널 추론 인프라 실증 · AI 아키텍처 총괄 (2026)
 - 🥈 RISE 전남 우수상 — 「전남 5대 핵심산업 융합혁신 프로젝트」 (국립순천대학교 RISE사업단, 2026.02)
 - 🎯 AI TOP 100 Campus 본선 진출 (Kakao AI Campus)
 - 🌱 글로컬 그린스마트팜 성과박람회 대학생 해커톤 경진대회 장려상 (국립순천대학교, 2025.12)
 
 **Certifications**
+
 - ICT 이노베이션스퀘어 AI 기본과정 80h (2025.04)
 - ICT 이노베이션스퀘어 AWS 마스터 클래스 160h (2026.04~06, 수강 중) — AWS-SAA 대비
+
 <br/>
 
 ### <img src="https://img.icons8.com/color/24/000000/new-post.png" width="22"/> Contact
