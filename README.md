@@ -105,6 +105,7 @@
 
 **Awards & Selections**
 
+- 🏆 전국민 AI 경진대회 「지역사회 문제해결」 부문 **최우수작** — 「AI 남도여행」 TourAPI + RAG 기반 전남 22개 시군 관광 추천 플랫폼 (과학기술정보통신부·한국과학창의재단, 2026)
 - 🖥️ NIPA 2026 고성능컴퓨팅 지원사업 (AI반도체 트랙) 선정 — 국산 NPU(Rebellions ATOM PLUS) 기반 SoloSeller Shop 멀티채널 추론 인프라 실증 · AI 아키텍처 총괄 (2026)
 - 🥈 RISE 전남 우수상 — 「전남 5대 핵심산업 융합혁신 프로젝트」 (국립순천대학교 RISE사업단, 2026.02)
 - 🎯 AI TOP 100 Campus 본선 진출 (Kakao AI Campus)
