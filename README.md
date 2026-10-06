@@ -1,8 +1,5 @@
 ## Park Hyunbin
 
-순천대학교 인공지능공학부 재학. LLM·Computer Vision을 활용한 서비스를 기획부터 배포까지 직접 만듭니다.
-멋쟁이사자처럼 순천대 14기 대표.
-
 **Stack** — Python, TypeScript, Java · Next.js, React, Astro · FastAPI, Spring Boot · PyTorch · PostgreSQL · Docker, AWS, Cloudflare, Nginx
 
 <br/>
@@ -15,6 +12,7 @@
 |---|---|---|---|
 | [SoloSeller Shop](https://shop.soloseller.cloud) | 멀티채널(쿠팡·네이버·11번가·SSG) 셀러 관리 SaaS. 국산 NPU 기반 추론 인프라 실증 (NIPA 2026 선정) | [shop.soloseller.cloud](https://shop.soloseller.cloud) | Next.js, FastAPI, PostgreSQL |
 | [AI 남도여행](https://github.com/Hbin77/AI_jn_tour) | TourAPI + RAG 기반 전남 22개 시군 관광 추천 플랫폼 | [jntour.site](https://jntour.site) | TypeScript, RAG |
+| [OneWay](https://github.com/Hbin77/oneway-impact-web) | 일방통행 전환 시 구역 전체 통행시간·상권 영향을 계산하는 도로 진단 서비스 (MABC 2026 결선) | [oneway.hbinserver.cloud](https://oneway.hbinserver.cloud) | React, Flask, Solar Pro 4 |
 | [tail-psychology](https://github.com/Hbin77/tail-psychology) | 반려동물 성격 유형 검사 서비스 (멍BTI / 냥BTI) | [tailpsych.com](https://tailpsych.com) | Next.js, FastAPI, CV |
 | [TRNT](https://github.com/Hbin77/TRNT-pj) | 과거의 다른 선택을 AI로 시뮬레이션하는 인생 선택 체험 서비스 | [trnt.hbinserver.cloud](https://trnt.hbinserver.cloud) | TypeScript, Python, LLM |
 | [lucida-webapp](https://github.com/Hbin77/lucida-webapp) | 장기요양보험 예방형 동적 언더라이팅 연구 데모 (제4회 전국 리스크관리 경진대회) | [lucida.hbinserver.cloud](https://lucida.hbinserver.cloud) | TypeScript |
@@ -46,6 +44,7 @@
 
 - **2026** 전국민 AI 경진대회 「지역사회 문제해결」 부문 최우수작 — AI 남도여행 (과학기술정보통신부·한국과학창의재단)
 - **2026** NIPA 고성능컴퓨팅 지원사업 AI반도체 트랙 선정 — SoloSeller Shop, Rebellions ATOM PLUS 기반 추론 인프라 실증, AI 아키텍처 총괄
+- **2026.09** MABC 2026 결선 진출 — OneWay, 일방통행 전환 영향 분석 서비스
 - **2026.02** RISE 전남 우수상 — 전남 5대 핵심산업 융합혁신 프로젝트 (국립순천대학교 RISE사업단)
 - AI TOP 100 Campus 본선 진출 (Kakao AI Campus)
 - **2025.12** 글로컬 그린스마트팜 성과박람회 대학생 해커톤 장려상 (국립순천대학교)
