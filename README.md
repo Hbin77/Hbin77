@@ -44,7 +44,7 @@
 
 - **2026** 전국민 AI 경진대회 「지역사회 문제해결」 부문 최우수작 — AI 남도여행 (과학기술정보통신부·한국과학창의재단)
 - **2026** NIPA 고성능컴퓨팅 지원사업 AI반도체 트랙 선정 — SoloSeller Shop, Rebellions ATOM PLUS 기반 추론 인프라 실증, AI 아키텍처 총괄
-- **2026.09** MABC 2026 결선 진출 — OneWay, 일방통행 전환 영향 분석 서비스
+- **2026.09** MABC 2026 (Making AI Beneficial Challenge) 결선 진출 TOP 50 — OneWay, 일방통행 전환 영향 분석 서비스 (Upstage)
 - **2026.02** RISE 전남 우수상 — 전남 5대 핵심산업 융합혁신 프로젝트 (국립순천대학교 RISE사업단)
 - AI TOP 100 Campus 본선 진출 (Kakao AI Campus)
 - **2025.12** 글로컬 그린스마트팜 성과박람회 대학생 해커톤 장려상 (국립순천대학교)
