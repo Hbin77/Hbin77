@@ -10,6 +10,7 @@
 
 | Project | Description | Link | Stack |
 |---|---|---|---|
+| [CertPass](https://github.com/Hbin77/certpass) | 포장 사진·전성분표 PDF로 국내외 화장품 인증 56종을 사전 판정 — 직접 학습한 OCR + 규칙 엔진 + RF 위험 경보 + LLM 근거 설명 (2026 전남광주 기업 AX 혁신챌린지 우수상) | [데모](https://devopen-gpu.jntp-ax.or.kr/i/FBi4CwFvT4Pe38Xd/) | PyTorch, FastAPI, RAG |
 | [SoloSeller Shop](https://shop.soloseller.cloud) | 멀티채널(쿠팡·네이버·11번가·SSG) 셀러 관리 SaaS. 국산 NPU 기반 추론 인프라 실증 (NIPA 2026 선정) | [shop.soloseller.cloud](https://shop.soloseller.cloud) | Next.js, FastAPI, PostgreSQL |
 | [AI 남도여행](https://github.com/Hbin77/AI_jn_tour) | TourAPI + RAG 기반 전남 22개 시군 관광 추천 플랫폼 | [jntour.site](https://jntour.site) | TypeScript, RAG |
 | [OneWay](https://github.com/Hbin77/oneway-impact-web) | 일방통행 전환 시 구역 전체 통행시간·상권 영향을 계산하는 도로 진단 서비스 (MABC 2026 결선) | [oneway.hbinserver.cloud](https://oneway.hbinserver.cloud) | React, Flask, Solar Pro 4 |
@@ -42,6 +43,7 @@
 
 ### Awards
 
+- **2026.11** 2026 전남광주 기업 AX 혁신챌린지 우수상 — CertPass, 화장품 수출 인증 사전 판정 서비스 (중소벤처기업부·중소벤처기업진흥공단)
 - **2026** 전국민 AI 경진대회 「지역사회 문제해결」 부문 최우수작 — AI 남도여행 (과학기술정보통신부·한국과학창의재단)
 - **2026** NIPA 고성능컴퓨팅 지원사업 AI반도체 트랙 선정 — SoloSeller Shop, Rebellions ATOM PLUS 기반 추론 인프라 실증, AI 아키텍처 총괄
 - **2026.09** MABC 2026 (Making AI Beneficial Challenge) 결선 진출 TOP 50 — OneWay, 일방통행 전환 영향 분석 서비스 (Upstage)
